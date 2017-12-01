@@ -52,7 +52,6 @@ package main
 	fmt.Println(ElizaResponse("My grandfather was French!"))
 	fmt.Println();
 
-
 	fmt.Println("I am happy.")
 	fmt.Println(ElizaResponse("I am happy.")) 
 	fmt.Println();
