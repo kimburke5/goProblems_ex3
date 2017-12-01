@@ -1,6 +1,6 @@
 # goProblemSheet3
 
-#How to clone your repository in Github
+# How to clone your repository in Github
 
 1. On GitHub, navigate to the main page of the repository.
 2. Under the repository name, click Clone or download.
@@ -11,7 +11,7 @@
 7. Press Enter. 
 8. Your local clone will be created. 
 
-#Exercises
+# Exercises
 
 To run these programs, enter eg. go build "ex1.go" in the terminal, 
 then go run "ex1.go" - this will run the program or alternatively it will throw errors any if they are present.
@@ -27,6 +27,7 @@ git commit -m "ex1"
 
 git push
 
-//Resources: https://golang.org/
-//Resource: https://help.github.com/articles/cloning-a-repository/
-//https://github.com/ianmcloughlin
+# Resources: 
+https://golang.org/
+https://help.github.com/articles/cloning-a-repository/
+https://github.com/ianmcloughlin
