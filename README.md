@@ -28,6 +28,8 @@ git commit -m "ex1"
 git push
 
 # Resources: 
-https://golang.org/
-https://help.github.com/articles/cloning-a-repository/
-https://github.com/ianmcloughlin
+//https://golang.org/
+
+//https://help.github.com/articles/cloning-a-repository/
+
+//https://github.com/ianmcloughlin
