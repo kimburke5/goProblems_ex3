@@ -4,7 +4,7 @@ package main
  import "time"
  import "fmt"
  import "regexp"
- 
+
  var responses = []string{
 	"I’m not sure what you’re trying to say. Could you explain it to me?",
 	"How does that make you feel?",
@@ -22,6 +22,7 @@ package main
      return responses[rand.Intn(len(responses))]
  
  }
+ 
  
  func main() {
 	rand.Seed(time.Now().UTC().UnixNano())
